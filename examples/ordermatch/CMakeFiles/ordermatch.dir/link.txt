@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/ordermatch.dir/Application.cpp.o CMakeFiles/ordermatch.dir/Market.cpp.o CMakeFiles/ordermatch.dir/ordermatch.cpp.o -o ordermatch  -Wl,-rpath,/home/thanh/qf_test/quickfix/src/C++ ../../src/C++/libquickfix.so.17.0.0 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread 

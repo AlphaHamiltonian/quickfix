@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/at.dir/at.cpp.o CMakeFiles/at.dir/getopt.c.o -o at  -Wl,-rpath,/home/thanh/qf_test/quickfix/src/C++ C++/libquickfix.so.17.0.0 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread 

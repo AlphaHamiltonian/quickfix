@@ -1,0 +1,3 @@
+ut.o: ut.cpp /usr/include/stdc-predef.h ../src/C++/config.h
+/usr/include/stdc-predef.h:
+../src/C++/config.h:
